@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OpenCV_Detection</string>
+    <string name="ipaddress">Lego EV3 ip address</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="send">Send</string>
+</resources>
